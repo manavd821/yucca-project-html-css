@@ -569,6 +569,8 @@ button{
     max-width:420px;
     font-size:16px;
     line-height:1.6;
+    margin-right: 155px;
+    font-weight: 600;
 }
 
 .standards-grid{
