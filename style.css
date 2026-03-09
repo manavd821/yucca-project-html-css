@@ -12,11 +12,11 @@ html, body {
 }
 @font-face {
     font-family: magnet;
-    src: url("../font-family-utf/MagnetTRIAL-Light-BF66b435fc66b60.otf");
+    src: url("./magnetik/Magnetik-Light.otf");
 }
 @font-face {
     font-family: magnet-bold;
-    src: url("../font-family-utf/MagnetTRIAL-Bold-BF66b435fd23678.otf");
+    src: url("./magnetik/Magnetik-Bold.otf");
 }
 .wrapper{
     position: relative;
@@ -547,7 +547,7 @@ button{
 }
 .standards{
     width:100%;
-    background:#efede5;
+    background:#FFFDF5;
     padding:120px 120px;
 }
 
@@ -605,6 +605,7 @@ button{
     display:flex;
     justify-content:space-between;
     padding:120px;
+    background-color: #F7F4E9;
 }
 
 .faq-left h2{
@@ -638,6 +639,7 @@ button{
 
 .industry-section{
     padding:120px;
+    background-color: #DFDAC6;
 }
 
 .industry-header{
